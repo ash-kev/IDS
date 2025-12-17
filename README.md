@@ -43,7 +43,7 @@ Dataset:
 -Place kdd_sample.csv in the project root directory.  
 
 Run the Model  
-```python nn_f_v2.py```
+```python nn.py```
 
 # Evaluation Metrics
 
