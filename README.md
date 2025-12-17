@@ -30,20 +30,20 @@ A Machine Learning–based Intrusion Detection System (IDS) that classifies netw
 
 # Installation & Setup
 
->Clone Repository:
+Clone Repository:
 
-git clone https://github.com/yourusername/ids-neural-network.git
-cd ids-neural-network
+```git clone https://github.com/yourusername/ids-neural-network.git```
+```cd ids-neural-network```
 
 
->Install Dependencies:
--pip install pandas numpy scikit-learn tensorflow matplotlib
+Install Dependencies:
+```pip install pandas numpy scikit-learn tensorflow matplotlib```
 
->Dataset:
+Dataset:
 -Place kdd_sample.csv in the project root directory.
 
->Run the Model
--python nn_f_v2.py
+Run the Model
+```python nn_f_v2.py```
 
 # Evaluation Metrics
 
